@@ -1,6 +1,6 @@
 ## Desafio Final: API REST com FastAPI, Python e Docker
 
-Este documento descreve os passos para criar uma API REST com FastAPI, Python e Docker, seguindo as instruções fornecidas.
+Este documento descreve os passos para criar uma API REST com FastAPI, Python e Docker.
 
 ### 1. Estrutura do Projeto
 
