@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "", // Limpa qualquer PYTHONPATH existente
+        "PYENV_ROOT": "%USERPROFILE%\\.pyenv\\pyenv-win",
+        "PYENV_HOME": "%USERPROFILE%\\.pyenv\\pyenv-win",
+        "Path": "%USERPROFILE%\\.pyenv\\pyenv-win\\bin;%USERPROFILE%\\.pyenv\\pyenv-win\\shims;${env:Path}"
+    },
+    "terminal.integrated.inheritEnv": false
+}
